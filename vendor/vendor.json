@@ -1,0 +1,92 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Pc2ORQp+VY3Un/dkh4QwLC7R6lE=",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "a368813c5e648fee92e5f6c30e3944ff9d5e8895",
+			"revisionTime": "2017-06-26T11:06:00Z"
+		},
+		{
+			"checksumSHA1": "eiRzLoenl7oEVCuoT+Ju/zWBlKg=",
+			"origin": "github.com/hashicorp/consul/vendor/github.com/armon/go-metrics",
+			"path": "github.com/armon/go-metrics",
+			"revision": "bed22a81e9fdd367171c14b2169f05e50e1cc905",
+			"revisionTime": "2018-06-15T16:10:29Z"
+		},
+		{
+			"checksumSHA1": "pc7hZmH1Qxzvd10CCG/CYa8PzVE=",
+			"path": "github.com/fastpopo/gconf",
+			"revision": "046fe22b1fa7830aa6d92e9da5f0759ce5be64ac",
+			"revisionTime": "2018-06-18T07:21:39Z"
+		},
+		{
+			"checksumSHA1": "cZw5u6BGWe3gjJxmXT6J0Tfn6Mw=",
+			"path": "github.com/hashicorp/consul/api",
+			"revision": "bed22a81e9fdd367171c14b2169f05e50e1cc905",
+			"revisionTime": "2018-06-15T16:10:29Z"
+		},
+		{
+			"checksumSHA1": "YAq1rqZIp+M74Q+jMBQkkMKm3VM=",
+			"origin": "github.com/hashicorp/consul/vendor/github.com/hashicorp/go-cleanhttp",
+			"path": "github.com/hashicorp/go-cleanhttp",
+			"revision": "bed22a81e9fdd367171c14b2169f05e50e1cc905",
+			"revisionTime": "2018-06-15T16:10:29Z"
+		},
+		{
+			"checksumSHA1": "Cas2nprG6pWzf05A2F/OlnjUu2Y=",
+			"origin": "github.com/hashicorp/consul/vendor/github.com/hashicorp/go-immutable-radix",
+			"path": "github.com/hashicorp/go-immutable-radix",
+			"revision": "bed22a81e9fdd367171c14b2169f05e50e1cc905",
+			"revisionTime": "2018-06-15T16:10:29Z"
+		},
+		{
+			"checksumSHA1": "A1PcINvF3UiwHRKn8UcgARgvGRs=",
+			"origin": "github.com/hashicorp/consul/vendor/github.com/hashicorp/go-rootcerts",
+			"path": "github.com/hashicorp/go-rootcerts",
+			"revision": "bed22a81e9fdd367171c14b2169f05e50e1cc905",
+			"revisionTime": "2018-06-15T16:10:29Z"
+		},
+		{
+			"checksumSHA1": "2nOpYjx8Sn57bqlZq17yM4YJuM4=",
+			"origin": "github.com/hashicorp/consul/vendor/github.com/hashicorp/golang-lru/simplelru",
+			"path": "github.com/hashicorp/golang-lru/simplelru",
+			"revision": "bed22a81e9fdd367171c14b2169f05e50e1cc905",
+			"revisionTime": "2018-06-15T16:10:29Z"
+		},
+		{
+			"checksumSHA1": "0PeWsO2aI+2PgVYlYlDPKfzCLEQ=",
+			"origin": "github.com/hashicorp/consul/vendor/github.com/hashicorp/serf/coordinate",
+			"path": "github.com/hashicorp/serf/coordinate",
+			"revision": "bed22a81e9fdd367171c14b2169f05e50e1cc905",
+			"revisionTime": "2018-06-15T16:10:29Z"
+		},
+		{
+			"checksumSHA1": "V/quM7+em2ByJbWBLOsEwnY3j/Q=",
+			"origin": "github.com/hashicorp/consul/vendor/github.com/mitchellh/go-homedir",
+			"path": "github.com/mitchellh/go-homedir",
+			"revision": "bed22a81e9fdd367171c14b2169f05e50e1cc905",
+			"revisionTime": "2018-06-15T16:10:29Z"
+		},
+		{
+			"checksumSHA1": "TpjGaJE2joW1win+RLa66HjNWd0=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "6c888cc515d3ed83fc103cf1d84468aad274b0a7",
+			"revisionTime": "2018-06-14T09:16:56Z"
+		},
+		{
+			"checksumSHA1": "8Vjxiz2qAtkg3zjJgoXiDq7AI64=",
+			"path": "gopkg.in/fsnotify/fsnotify.v1",
+			"revision": "c2828203cd70a50dcccfb2761f8b1f8ceef9a8e9",
+			"revisionTime": "2018-01-10T05:33:47Z"
+		},
+		{
+			"checksumSHA1": "ZSWoOPUNRr5+3dhkLK3C4cZAQPk=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
+			"revisionTime": "2018-03-28T19:50:20Z"
+		}
+	],
+	"rootPath": "github.com/fastpopo/consulconf"
+}

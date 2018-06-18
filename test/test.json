@@ -1,0 +1,10 @@
+{
+  "ceres":{
+    "services":{
+      "gconf":{
+        "key1": "json1",
+        "key3": "json3"
+      }
+    }
+  }
+}
